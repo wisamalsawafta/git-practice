@@ -10,7 +10,7 @@ This repository is created as part of a Git learning exercise. It demonstrates t
 
 ## Key Actions in This Repository:
 - Created and modified files like `ex.txt` and `test.txt`.
-- Worked with multiple branches (`feature-1`, `feature-2`, `hotfix-1`).
+- Worked with multiple branches (`feature-1`, `feature-2`, `feature-3`).
 - Added tags (e.g., `v1.0`, `v1.1`).
 - Ignored certain files using `.gitignore`.
 Added from my vm
