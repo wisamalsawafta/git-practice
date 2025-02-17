@@ -1,0 +1,9 @@
+this is a sample text file created for testing Git operations.
+
+The file is part of a practice project to demonstrate:
+- Creating and modifying files.
+- Committing changes using both GitHub GUI and CLI.
+- Managing branches, tags, and .gitignore.
+- Pushing changes from a local VM to a remote repository.
+
+Feel free to add more content or modify this file as needed.
